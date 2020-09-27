@@ -18,4 +18,5 @@ predcited the result and tested out the accuracies.
 fun.ipynb and experiment.ipynb
 here I experimented with my own images to get keypoints. 
 
-![alt tag](http://https://user-images.githubusercontent.com/39367176/94358092-526b9580-0053-11eb-91e1-a2f72e1c0730.png/to/img.png)
+Here is How the result on my own photos. Pretty decent!!
+![](Images/download.png)
