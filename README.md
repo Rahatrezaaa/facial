@@ -9,8 +9,8 @@ Files included in this repository are all .ipynb files.
 1_preprocessing.ipynb
 In this notebook,I prerpocessed the images and transformed into modelling form with custome classes based on  Pytorch's "DATALOADER","TRANSFORMS" class.
 
-2-project3.ipynb
-In this modelled with resnet.
+2-architecture and modellingipynb
+Created whole pipeline for transformed to dataset into modeeling input form then modelled with resnet.
 
 3-evaluation.ipynb
 predcited the result and tested out the accuracies.
