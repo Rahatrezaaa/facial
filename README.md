@@ -6,8 +6,8 @@ Trained on images from YouTube Faces DataBase by employing
 Transfer Learning on Resnet-18 model Used Pytorch and OpenCV.
 Files included in this repository are all .ipynb files.
 
-1.EDA_AND_DATASET (4).ipynb
-In this file ,I prerpocessed the images and transformed into modelling form with Pytorch's "DATALOADER","TRANSFORMS" functions.
+1_preprocessing.ipynb
+In this notebook,I prerpocessed the images and transformed into modelling form with custome classes based on  Pytorch's "DATALOADER","TRANSFORMS" class.
 
 2-project3.ipynb
 In this modelled with resnet.
