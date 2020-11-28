@@ -12,11 +12,13 @@ In this notebook,I prerpocessed the images and transformed into modelling form w
 2-architecture and modellingipynb
 Created whole pipeline for transformed to dataset into modeeling input form then modelled with resnet.
 
-3-evaluation.ipynb
-predcited the result and tested out the accuracies.
+3-final pipelineipynb
+takes any image as input,extracts the faces using Har Cascade classifier and the predicts keypoints on those faces.
 
-fun.ipynb and experiment.ipynb
-here I experimented with my own images to get keypoints. 
+4-evaulaation.ipynb
+
+5-fun.ipynb and experiment.ipynb
+experiments and put glass on the image using predicted keypoimts.
 
 Here is How the result on my own photos. Pretty decent!!
 ![](Images/download.png)
